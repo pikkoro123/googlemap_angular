@@ -1,0 +1,9 @@
+/* google-map {
+  width: 800;
+  height: 600;
+} */
+
+#map {
+  height: 500px;
+  width: 100%;
+}

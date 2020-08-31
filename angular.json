@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "google-api-angular-spanish"
+    }
+  },
+  "defaultProject": "google-api-angular-spanish",
+  "cli": {
+    "analytics": "fbda2541-48d3-40c2-898f-83bb215a9858"
+  }
 }
